@@ -44,12 +44,12 @@ To use this ACO algorithm implementation:
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/ECM3412-Coursework.git
+   git clone https://github.com/SebastianDixon/TravellingSalesman_ACO.git
    ```
 
 2. Navigate to the project directory.
    ```bash
-   cd ECM3412-Coursework
+   cd TravellingSalesman_ACO
    ```
 
 3. Run the Python script containing the ACO algorithm implementation.
@@ -57,12 +57,10 @@ To use this ACO algorithm implementation:
    python your_script_name.py
    ```
 
-Make sure to replace "your-username" and "your_script_name.py" with your actual GitHub username and the name of the Python script you want to execute.
+Make sure to replace "your_script_name.py" with the name of the Python script you want to execute.
 
 ## Acknowledgments
 
 - Special thanks to the authors of the Python libraries used in this project: xml.etree.ElementTree, random, matplotlib, pandas, numpy, and networkx.
 
 Feel free to reach out to me if you have any questions or feedback.
-
-Happy coding! 🚀
