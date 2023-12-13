@@ -38,6 +38,18 @@ To run this project, you'll need to install the following Python 3 libraries:
      pip install networkx
      ```
 
+7. **seaborn:**
+   - Install seaborn using the following command:
+     ```bash
+     pip install seaborn
+     ```
+
+8. **Jupyter Notebook:**
+   - To run the Jupyter Notebook, install Jupyter using the following command:
+     ```bash
+     pip install notebook
+     ```
+
 ## Usage
 
 To use this ACO algorithm implementation:
@@ -52,15 +64,15 @@ To use this ACO algorithm implementation:
    cd TravellingSalesman_ACO
    ```
 
-3. Run the Python script containing the ACO algorithm implementation.
+3. Open the Jupyter Notebook using the following command:
    ```bash
-   python your_script_name.py
+   jupyter notebook your_notebook_name.ipynb
    ```
 
-Make sure to replace "your_script_name.py" with the name of the Python script you want to execute.
+Make sure to replace "your_notebook_name.ipynb" with the name of the Jupyter Notebook you want to execute.
 
 ## Acknowledgments
 
-- Special thanks to the authors of the Python libraries used in this project: xml.etree.ElementTree, random, matplotlib, pandas, numpy, and networkx.
-
 Feel free to reach out to me if you have any questions or feedback.
+
+Happy coding! 🚀
