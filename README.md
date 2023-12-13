@@ -66,10 +66,9 @@ To use this ACO algorithm implementation:
 
 3. Open the Jupyter Notebook using the following command:
    ```bash
-   jupyter notebook your_notebook_name.ipynb
+   jupyter notebook ACO_Burma.ipynb
+   jupyter notebook ACO_Brazil.ipynb
    ```
-
-Make sure to replace "your_notebook_name.ipynb" with the name of the Jupyter Notebook you want to execute.
 
 ## Acknowledgments
 
