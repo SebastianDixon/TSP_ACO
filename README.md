@@ -1,5 +1,7 @@
 # ECM3412 - Coursework Exercise by Sebastian Dixon
 
+## Grade: 81%
+
 ## Description
 
 This repository contains the implementation of the Ant Colony Optimization (ACO) algorithm applied to the Travelling Salesman Problem (TSP) for city networks of Burma and Brazil. The goal is to find an optimal path that visits each city exactly once and returns to the starting city, minimizing the total travel distance.
